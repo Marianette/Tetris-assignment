@@ -4,7 +4,7 @@
 This is a Java assignment I wrote tests for at uni
 
 
-This is a link to [wills website](https://will.moreland.nz) this is in **bold**
+This is a link to [text](link) this is in **bold**
 
 1. this
 1. is
